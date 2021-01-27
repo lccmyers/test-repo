@@ -8,6 +8,4 @@ Testing edits using Markdown
 
 - bullet
 
-[] check box
-
 normal text
